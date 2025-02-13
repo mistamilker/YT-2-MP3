@@ -10,7 +10,7 @@
 - **yt-dlp** & **ffmpeg**
 
 ## Installation
-click [here](https://github.com/ItsEcstasy/YT2MP3/releases) to download the latest release
+click [here](https://github.com/ItsEcstasy/YT-2-MP3/releases/tag/Release) to download the latest release
 
 ## Usage
 1. Run `YT2MP3.exe` or `./yt2mp3`.
